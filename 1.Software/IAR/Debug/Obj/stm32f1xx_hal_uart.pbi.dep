@@ -1,0 +1,54 @@
+stm32f1xx_hal_uart.pbi: \
+  E:\wk\PID\IAR_projekt\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Inc\stm32f1xx_hal_conf.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Inc/main.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdarg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\math.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_float_setup.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_def.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include/stm32f103xe.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\CMSIS\Include\core_cm3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\CMSIS\Include/core_cmInstr.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\cmsis_iar.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c/iccarm_builtin.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\CMSIS\Include/core_cmFunc.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include/system_stm32f1xx.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc/Legacy/stm32_hal_legacy.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stddef.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_rcc_ex.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_gpio_ex.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dma_ex.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_can.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_adc.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_adc_ex.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dac.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_dac_ex.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash_ex.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_iwdg.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_spi.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_tim_ex.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_usart.h \
+  E:\wk\PID\IAR_projekt\IAR\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_wwdg.h
